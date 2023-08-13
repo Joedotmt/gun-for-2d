@@ -1,0 +1,1 @@
+fx_set_parameter(layer_get_fx("shake_effect"), "g_Magnitude", 0)
