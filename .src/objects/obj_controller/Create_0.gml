@@ -1,4 +1,5 @@
-if (os_browser != browser_not_a_browser && !instance_exists(obj_HTML_FS)) { instance_create_depth(x,y,depth,obj_HTML_FS); }
+display_reset(0,false)
+/*if (os_browser != browser_not_a_browser && !instance_exists(obj_HTML_FS)) { instance_create_depth(x,y,depth,obj_HTML_FS); }
 
 with (obj_controller)
 {
@@ -24,4 +25,4 @@ game_win = function(_color, _text)
 }
 
 #macro GUIW display_get_gui_width()
-#macro GUIH display_get_gui_height()
+#macro GUIH display_get_gui_height()*/

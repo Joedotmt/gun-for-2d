@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "Options",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Rocket Networking",
-    "path": "folders/Scripts/Rocket Networking.yy",
+  "$GMScript":"v1",
+  "%Name":"Options",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Options",
+  "parent":{
+    "name":"Rocket Networking",
+    "path":"folders/Scripts/Rocket Networking.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

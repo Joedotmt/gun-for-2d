@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "ConnectToServer",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Internal Functions",
-    "path": "folders/Scripts/Rocket Networking/Internal Functions.yy",
+  "$GMScript":"v1",
+  "%Name":"ConnectToServer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ConnectToServer",
+  "parent":{
+    "name":"Internal Functions",
+    "path":"folders/Scripts/Rocket Networking/Internal Functions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

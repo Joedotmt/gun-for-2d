@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "ShowAllClientsInRoom",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Internal Functions",
-    "path": "folders/Scripts/Rocket Networking/Internal Functions.yy",
+  "$GMScript":"v1",
+  "%Name":"ShowAllClientsInRoom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ShowAllClientsInRoom",
+  "parent":{
+    "name":"Internal Functions",
+    "path":"folders/Scripts/Rocket Networking/Internal Functions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

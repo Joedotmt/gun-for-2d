@@ -1,3 +1,8 @@
+
+//d/aw_set_font(fnt_testing)
+//draw_text(0,0, fps_real)
+draw_text(0,30, fps)
+
 //if locked
 //{
 //    if string_length(keyboard_string) > 6
@@ -13,7 +18,7 @@
 //        locked = false
 //    }
 //}
-
+/*
 if __game_won
 {
 	var _prev = draw_get_color()

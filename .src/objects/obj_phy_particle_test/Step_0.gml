@@ -1,1 +1,0 @@
-physics_particle_create(phy_particle_flag_elastic, x, y,GUIW-device_mouse_x_to_gui(0),GUIH-device_mouse_y_to_gui(0), c_white, 1, 1)
